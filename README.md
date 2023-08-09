@@ -10,3 +10,7 @@ Desafíos para destacar:
 1) los tipos de datos int32 y float64 de un dataframe no son compatibles con la base de datos mysql por lo que se
 debe pasar la fila del dataframe a una lista y ahí realizar la conversión a los tipos de datos nativos de python
 int o float.
+
+desarrollado en:
+python 3.11
+mysql 8.0.34
